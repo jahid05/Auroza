@@ -1,0 +1,164 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Elegant Leather Handbag",
+        "price": 129.99,
+        "description": "A sophisticated leather handbag perfect for any occasion. Crafted from high-quality leather with a sleek design and spacious interior.",
+        "color": "Deep Brown",
+        "product_img": "https://i.ibb.co.com/1Zrssq7/pngegg-1.png"
+      },
+      {
+        "id": 2,
+        "title": "Modern Stainless Steel Watch",
+        "price": 299.99,
+        "description": "A stylish stainless steel watch with a minimalist design and precision timekeeping. Water-resistant and suitable for any occasion.",
+        "color": "Silver",
+        "product_img": "https://i.ibb.co.com/rZMLJxJ/watch.png"
+      },
+      {
+        "id": 3,
+        "title": "Comfortable Cotton T-Shirt",
+        "price": 19.99,
+        "description": "A soft and breathable cotton t-shirt available in various colors. Perfect for casual wear and everyday comfort.",
+        "color": "Black",
+        "product_img": "https://i.ibb.co.com/7rYz9cG/T-Shirt.png"
+      },
+      {
+        "id": 4,
+        "title": "Vintage Wooden Desk Lamp",
+        "price": 89.99,
+        "description": "A classic wooden desk lamp with an adjustable arm and vintage design. Adds a touch of elegance to any workspace.",
+        "color": "Walnut",
+        "product_img": "https://i.ibb.co.com/tZRF2yx/lamp.png"
+      },
+      {
+        "id": 5,
+        "title": "Sports Bluetooth Headphones",
+        "price": 79.99,
+        "description": "High-performance Bluetooth headphones designed for an active lifestyle. Offers excellent sound quality and sweat resistance.",
+        "color": "Black",
+        "product_img": "https://i.ibb.co.com/7pN3yZR/headphones.png"
+      },
+      {
+        "id": 6,
+        "title": "Stylish Denim Jacket",
+        "price": 69.99,
+        "description": "A trendy denim jacket with a relaxed fit and classic design. Perfect for layering over your favorite outfits.",
+        "color": "Light Blue",
+        "product_img": "https://i.ibb.co.com/zn1cmXq/jacket.png"
+      },
+      {
+        "id": 7,
+        "title": "Premium Leather Wallet",
+        "price": 49.99,
+        "description": "A sleek and functional leather wallet with multiple card slots and a durable design. Ideal for everyday use.",
+        "color": "Black",
+        "product_img": "https://i.ibb.co.com/XyYg9Dx/wallet.png"
+      },
+      {
+        "id": 8,
+        "title": "Luxury Silk Scarf",
+        "price": 89.99,
+        "description": "An elegant silk scarf with a beautiful pattern. Soft and lightweight, perfect for adding a touch of sophistication to any outfit.",
+        "color": "Navy Blue",
+        "product_img": "https://i.ibb.co.com/tmcwzPZ/scarf.png"
+      },
+      {
+        "id": 9,
+        "title": "Ergonomic Office Chair",
+        "price": 199.99,
+        "description": "A comfortable and ergonomic office chair with adjustable features and lumbar support. Designed for long hours of work.",
+        "color": "Charcoal Grey",
+        "product_img": "https://example.com/images/ergonomic-office-chair.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Compact Digital Camera",
+        "price": 499.99,
+        "description": "A high-quality digital camera with compact design and advanced features. Ideal for capturing high-resolution photos and videos.",
+        "color": "Silver",
+        "product_img": "https://example.com/images/compact-digital-camera.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Luxury Bedding Set",
+        "price": 159.99,
+        "description": "A soft and luxurious bedding set made from high-quality cotton. Includes a duvet cover, pillowcases, and fitted sheet.",
+        "color": "White",
+        "product_img": "https://example.com/images/luxury-bedding-set.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Classic Aviator Sunglasses",
+        "price": 89.99,
+        "description": "Timeless aviator sunglasses with UV protection and a stylish frame. Perfect for sunny days and adding a touch of flair.",
+        "color": "Gold",
+        "product_img": "https://example.com/images/classic-aviator-sunglasses.jpg"
+      },
+      {
+        "id": 13,
+        "title": "High-Performance Gaming Mouse",
+        "price": 59.99,
+        "description": "An advanced gaming mouse with customizable buttons and high precision. Designed for gamers seeking the edge in performance.",
+        "color": "Black",
+        "product_img": "https://example.com/images/high-performance-gaming-mouse.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Organic Cotton Yoga Mat",
+        "price": 39.99,
+        "description": "A high-quality yoga mat made from organic cotton. Provides excellent grip and comfort for all types of yoga practices.",
+        "color": "Green",
+        "product_img": "https://example.com/images/organic-cotton-yoga-mat.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Portable Travel Backpack",
+        "price": 89.99,
+        "description": "A versatile and durable travel backpack with multiple compartments and ergonomic straps. Perfect for travel and daily use.",
+        "color": "Dark Blue",
+        "product_img": "https://example.com/images/portable-travel-backpack.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Handcrafted Ceramic Vase",
+        "price": 49.99,
+        "description": "A beautifully handcrafted ceramic vase with a unique design. Perfect for displaying flowers or as a decorative piece.",
+        "color": "Teal",
+        "product_img": "https://example.com/images/handcrafted-ceramic-vase.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Eco-Friendly Water Bottle",
+        "price": 25.99,
+        "description": "A reusable water bottle made from eco-friendly materials. Keeps drinks hot or cold for hours and features a leak-proof design.",
+        "color": "Stainless Steel",
+        "product_img": "https://example.com/images/eco-friendly-water-bottle.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Elegant Dinnerware Set",
+        "price": 129.99,
+        "description": "A sophisticated dinnerware set including plates, bowls, and cups. Perfect for formal dining and special occasions.",
+        "color": "White with Gold Trim",
+        "product_img": "https://example.com/images/elegant-dinnerware-set.jpg"
+      },
+      {
+        "id": 19,
+        "title": "All-Natural Skincare Set",
+        "price": 74.99,
+        "description": "A complete skincare set featuring all-natural ingredients. Includes cleanser, moisturizer, and serum for healthy, radiant skin.",
+        "color": "N/A",
+        "product_img": "https://example.com/images/all-natural-skincare-set.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Stylish Running Shoes",
+        "price": 109.99,
+        "description": "High-performance running shoes with a sleek design and comfortable fit. Ideal for both casual and serious runners.",
+        "color": "Red",
+        "product_img": "https://example.com/images/stylish-running-shoes.jpg"
+      }
+    ]
+  }  
